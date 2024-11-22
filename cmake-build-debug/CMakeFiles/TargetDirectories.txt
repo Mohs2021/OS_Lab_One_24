@@ -1,0 +1,3 @@
+/home/parallels/Desktop/OS_Lab_One_24/cmake-build-debug/CMakeFiles/OS_Lab_One_24.dir
+/home/parallels/Desktop/OS_Lab_One_24/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/OS_Lab_One_24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
