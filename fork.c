@@ -5,7 +5,7 @@ int main(int argc, char **argv) {
     // Variables for child process IDs
     pid_t pid1, pid2;
     unsigned i;
-    unsigned niterations = 2;
+    unsigned niterations = 100;
 
     // First fork
     pid1 = fork();
